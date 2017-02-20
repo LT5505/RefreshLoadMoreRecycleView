@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RefreshLoadMoreListView</string>
+    <string name="refreshloadmorelist">RefreshLoadMoreList</string>
+    <string name="refreshloadmoregrid">RefreshLoadMoreGrid</string>
+    <string name="loaded_all">Loaded all</string>
+</resources>
