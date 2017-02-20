@@ -46,3 +46,5 @@ Welcome to RefreshLoadMoreRecyclerView
     }
 
 5、效果图
+
+![效果图](https://github.com/LT5505/RefreshLoadMoreRecycleView/blob/master/Screenshots/loading.gif)
